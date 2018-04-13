@@ -15,7 +15,6 @@ var wallpaper = {
     Drizzle: "https://static.pexels.com/photos/688830/pexels-photo-688830.jpeg",
     Extreme: "https://static.pexels.com/photos/76969/cold-front-warm-front-hurricane-felix-76969.jpeg"
 }
-// back.style.background = "linear-gradient(to bottom right, rgba(120, 57, 15, .6), rgba(20, 96, 187, .6)), url('" + wallpaper.Clouds + "') no-repeat right center";
 
 // check if geolocation is available, then use its method to get the coordinates
 if ("geolocation" in navigator) {
